@@ -1,6 +1,6 @@
 import unittest
-from poker.jogo import *
-from poker.dados import *
+from jogo import *
+from dados import *
 
 
 class Test(unittest.TestCase):
